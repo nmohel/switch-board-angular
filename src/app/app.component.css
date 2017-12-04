@@ -1,0 +1,27 @@
+.switch {
+    background-color: #6D4222;
+    width: 60px;
+    height: 60px;
+    padding: 12px 5px;
+    display: inline-block;
+    margin: 1px;
+    border: 2px solid black;
+    box-sizing: border-box;
+}
+
+button {
+    border: 1px solid black;
+    color: black;
+    border-radius: 0;
+    height: 30px;
+    width: 40px;
+    box-sizing: border-box;
+    box-shadow: 2px 2px 2px;
+}
+
+.on {
+    background-color: green;
+}
+.off {
+    background-color: #CC0C0C;
+}
